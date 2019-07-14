@@ -18,7 +18,10 @@
 <input type="radio" name="r1" value="add" />addition
 <br />
 </label>
-
+<label>
+<input type="radio" name="r1" value="add" />subtraction
+<br />
+</label>
  
 </div>
 <input type="submit" value="submit" />
